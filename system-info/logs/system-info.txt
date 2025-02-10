@@ -1,0 +1,183 @@
+{
+  "osType": "Windows_NT",
+  "totalMemory": "7.68 GB",
+  "freeMemory": "0.99 GB",
+  "cpus": [
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1522312,
+        "nice": 0,
+        "sys": 2662406,
+        "idle": 22026406,
+        "irq": 780859
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1267093,
+        "nice": 0,
+        "sys": 1470093,
+        "idle": 23473812,
+        "irq": 278484
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1888687,
+        "nice": 0,
+        "sys": 1709015,
+        "idle": 22613296,
+        "irq": 262875
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1129265,
+        "nice": 0,
+        "sys": 1275984,
+        "idle": 23805734,
+        "irq": 206640
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1238734,
+        "nice": 0,
+        "sys": 1177406,
+        "idle": 23794859,
+        "irq": 170968
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1089843,
+        "nice": 0,
+        "sys": 919531,
+        "idle": 24201625,
+        "irq": 146562
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 1311671,
+        "nice": 0,
+        "sys": 1142359,
+        "idle": 23756968,
+        "irq": 159625
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 999359,
+        "nice": 0,
+        "sys": 1004703,
+        "idle": 24206937,
+        "irq": 145453
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 245906,
+        "nice": 0,
+        "sys": 345296,
+        "idle": 25619781,
+        "irq": 57968
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 248312,
+        "nice": 0,
+        "sys": 353953,
+        "idle": 25608718,
+        "irq": 87281
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 244921,
+        "nice": 0,
+        "sys": 346312,
+        "idle": 25619765,
+        "irq": 88359
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 237812,
+        "nice": 0,
+        "sys": 339593,
+        "idle": 25633593,
+        "irq": 84375
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 234765,
+        "nice": 0,
+        "sys": 345921,
+        "idle": 25630312,
+        "irq": 88203
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 234171,
+        "nice": 0,
+        "sys": 334281,
+        "idle": 25642546,
+        "irq": 85046
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 239593,
+        "nice": 0,
+        "sys": 328453,
+        "idle": 25642937,
+        "irq": 84578
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "speed": 3110,
+      "times": {
+        "user": 247890,
+        "nice": 0,
+        "sys": 328125,
+        "idle": 25634984,
+        "irq": 85343
+      }
+    }
+  ]
+}
